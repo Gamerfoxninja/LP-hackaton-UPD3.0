@@ -207,8 +207,7 @@ main{
 }
 
 /*PORQUE ESCOLHER A RAZOR??*/
-.section_tres{
-}
+
 
 .caixa_s3{
     display: flex;
@@ -352,6 +351,7 @@ main{
 
 .linkrodape{
     width:5%;
+
 }
 
 .razorltda{
@@ -441,4 +441,5 @@ main{
     #linhazinha{
         margin-left: 250px;
     }
+    
 }
